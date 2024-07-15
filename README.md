@@ -2,7 +2,7 @@
 
 ### 📫 Link Tree
 - **Blog:** [https://blex.me/@kimyoungjo](https://blex.me/@kimyoungjo)
-- **E-Mail:** [yoyounn88@gmail.com](yoyounn88@gmail.com)
+- **E-Mail:** yoyounn88@gmail.com
 - **Project Link** [지도 검색 서비스](https://mymapapps.com/)
 
 ### 📚 About Me
