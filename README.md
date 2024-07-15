@@ -41,6 +41,6 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white)
 
 ### 🌟 Projects
-- **[지도 검색 서비스 github]**(https://github.com/yoyoyoun18/my-kakao-map)
-- **[지도 검색 서비스 제작기 Blog 시리즈]**(https://blex.me/@kimyoungjo/series/%EC%A7%80%EB%8F%84-%EA%B2%80%EC%83%89-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%A0%9C%EC%9E%91%EA%B8%B0)
+- [**지도 검색 서비스 github**](https://github.com/yoyoyoun18/my-kakao-map)
+- [**지도 검색 서비스 제작기 Blog 시리즈**](https://blex.me/@kimyoungjo/series/%EC%A7%80%EB%8F%84-%EA%B2%80%EC%83%89-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%A0%9C%EC%9E%91%EA%B8%B0)
 
