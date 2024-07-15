@@ -42,7 +42,7 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white)
 
 ### 🌟 Project
-- [**지도 검색 서비스 github**](https://github.com/yoyoyoun18/my-kakao-map)
+- [**지도 검색 서비스 github**](https://github.com/yoyoyoun18/my-map)
 
 ### 🧸 Toy Project
 - [**lck 일정 알림 Discord bot**](https://github.com/yoyoyoun18/lck-discord-bot)
