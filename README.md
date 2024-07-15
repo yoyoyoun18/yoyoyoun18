@@ -44,4 +44,7 @@
 ### 🌟 Projects
 - [**지도 검색 서비스 github**](https://github.com/yoyoyoun18/my-kakao-map)
 
+### 🧸 Toy Projects
+- [**lck 일정 알림 Discord bot**](https://github.com/yoyoyoun18/lck-discord-bot)
+
 
