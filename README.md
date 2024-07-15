@@ -41,10 +41,10 @@
 ![CloudFront](https://img.shields.io/badge/-CloudFront-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white)
 
-### 🌟 Projects
+### 🌟 Project
 - [**지도 검색 서비스 github**](https://github.com/yoyoyoun18/my-kakao-map)
 
-### 🧸 Toy Projects
+### 🧸 Toy Project
 - [**lck 일정 알림 Discord bot**](https://github.com/yoyoyoun18/lck-discord-bot)
 
 
