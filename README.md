@@ -43,6 +43,7 @@
 
 ### 🌟 Project
 - [**지도 검색 서비스 github**](https://github.com/yoyoyoun18/my-map)
+    - - [**프로젝트 회고록**](https://blex.me/@kimyoungjo/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9A%8C%EA%B3%A0-%EC%A7%80%EB%8F%84-%EA%B2%80%EC%83%89-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%A0%9C%EC%9E%91%EA%B8%B0)
 
 ### 🧸 Toy Project
 - [**lck 일정 알림 Discord bot**](https://github.com/yoyoyoun18/lck-discord-bot)
