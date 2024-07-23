@@ -47,6 +47,10 @@
     
     - [**프로젝트 회고록**](https://blex.me/@kimyoungjo/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9A%8C%EA%B3%A0-%EC%A7%80%EB%8F%84-%EA%B2%80%EC%83%89-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%A0%9C%EC%9E%91%EA%B8%B0)
 
+- [**YOUR.PUBG (배틀그라운드 웹 서비스) github**](https://github.com/yoyoyoun18/your-pubg) (진행 중)
+
+    - [**제작기 블로그 시리즈 글**](https://blex.me/@kimyoungjo/series/%EB%B0%B0%ED%8B%80%EA%B7%B8%EB%9D%BC%EC%9A%B4%EB%93%9C-%EC%A0%84%EC%A0%81-%EA%B2%80%EC%83%89-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EC%A0%9C%EC%9E%91%EA%B8%B0)
+
 ### 🧸 Toy Project
 - [**lck 일정 알림 Discord bot**](https://github.com/yoyoyoun18/lck-discord-bot)
 
