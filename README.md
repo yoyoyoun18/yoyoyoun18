@@ -21,6 +21,7 @@
 
 #### **Front-End:**
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=Next.js&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-764ABC?style=flat&logo=Redux&logoColor=white)
 ![Tanstack Query](https://img.shields.io/badge/-Tanstack%20Query-FF4154?style=flat&logo=React%20Query&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=TailwindCSS&logoColor=white)
