@@ -44,6 +44,8 @@
 ![AWS S3](https://img.shields.io/badge/-AWS%20S3-569A31?style=flat&logo=Amazon%20S3&logoColor=white)
 ![CloudFront](https://img.shields.io/badge/-CloudFront-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=IntelliJ%20IDEA&logoColor=white)
+
 
 ### 🌟 Project
 - [**지도 검색 서비스 github**](https://github.com/yoyoyoun18/my-map)
