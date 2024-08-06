@@ -58,5 +58,6 @@
 
 ### 🧸 Toy Project
 - [**lck 일정 알림 Discord bot**](https://github.com/yoyoyoun18/lck-discord-bot)
+- [**blog crawler**](https://github.com/yoyoyoun18/blog-crawler)
 
 
