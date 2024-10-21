@@ -12,51 +12,25 @@
 - 웨이트 트레이닝을 좋아합니다.
 - 현재 식단 중이라 평상시 텐션의 70% 정도를 유지중입니다.
 
-### 🚀 Tech Stack
+### 🚀 **Tech Stack (C/C++/.NET Version)**
+
 #### **Languages:**
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=TypeScript&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=white)  
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=C%2B%2B&logoColor=white)  
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=C-Sharp&logoColor=white)  
 
-#### **Front-End:**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=Next.js&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-764ABC?style=flat&logo=Redux&logoColor=white)
-![Tanstack Query](https://img.shields.io/badge/-Tanstack%20Query-FF4154?style=flat&logo=React%20Query&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=TailwindCSS&logoColor=white)
+#### **Frameworks & UI:**
+![WinForms](https://img.shields.io/badge/-WinForms-0078D6?style=flat&logo=Windows&logoColor=white)  
+![WPF](https://img.shields.io/badge/-WPF-5C2D91?style=flat&logo=.NET&logoColor=white)  
 
-#### **Back-End:**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=Express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=Spring-Boot&logoColor=white)
+#### **Computer Vision & Deep Learning:**
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white)  
+![Darknet](https://img.shields.io/badge/-Darknet-000000?style=flat&logo=AI&logoColor=white)  
 
-#### **Databases:**
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=PostgreSQL&logoColor=white)
-![MyBatis](https://img.shields.io/badge/-MyBatis-B72221?style=flat&logo=MyBatis&logoColor=white)
-![JPA](https://img.shields.io/badge/-JPA-007396?style=flat&logo=Java&logoColor=white)
+#### **Tools & IDEs:**
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)  
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=Visual-Studio&logoColor=white)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)  
 
-#### **Tools:**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)
-![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-FF9900?style=flat&logo=Amazon%20EC2&logoColor=white)
-![AWS S3](https://img.shields.io/badge/-AWS%20S3-569A31?style=flat&logo=Amazon%20S3&logoColor=white)
-![CloudFront](https://img.shields.io/badge/-CloudFront-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=IntelliJ%20IDEA&logoColor=white)
-
-
-### 🌟 Project
-- [**지도 검색 서비스 github**](https://github.com/yoyoyoun18/my-map)
-    
-    - [**프로젝트 회고록**](https://blex.me/@kimyoungjo/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9A%8C%EA%B3%A0-%EC%A7%80%EB%8F%84-%EA%B2%80%EC%83%89-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%A0%9C%EC%9E%91%EA%B8%B0)
-
-- [**YOUR.LOL (리그오브레전드 전적 검색 웹 서비스) github**](https://github.com/yoyoyoun18/your-pubg) (진행 중)
-
-    - [**제작기 블로그 시리즈 글**](https://blex.me/@kimyoungjo/series/yourlol-%EB%A6%AC%EA%B7%B8-%EC%98%A4%EB%B8%8C-%EB%A0%88%EC%A0%84%EB%93%9C-%EC%A0%84%EC%A0%81-%EA%B2%80%EC%83%89-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EC%A0%9C%EC%9E%91%EA%B8%B0)
-
-### 🧸 Toy Project
-- [**lck 일정 알림 Discord bot**](https://github.com/yoyoyoun18/lck-discord-bot)
-- [**blog crawler**](https://github.com/yoyoyoun18/blog-crawler)
 
 
